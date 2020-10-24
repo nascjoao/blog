@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my fresh new blog (and first post)!"
-date:   2020-10-23 22:20:24 -0300
+date:   2020-10-24 02:03:00 -0300
 categories: jekyll
 ---
 
