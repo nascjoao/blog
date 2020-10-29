@@ -6,8 +6,8 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+  -webkit-tap-highlight-color: transparent;
 }
-
 
 
 /**
@@ -41,8 +41,6 @@ ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
-
-
 
 /**
  * `main` element
@@ -112,7 +110,7 @@ a {
 
   &:hover {
     color: $brand-color;
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 
   .social-media-list &:hover {
@@ -150,8 +148,8 @@ pre,
 code {
   @include relative-font-size(0.9375);
   border-radius: 3px;
-  background-color: $primary-color;
-  color: $secondary-color;
+  background-color: $secondary-color;
+  color: $text-color;
 }
 
 code {

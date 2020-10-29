@@ -3,6 +3,7 @@
 // Define defaults for each variable.
 
 $base-font-family: 'Open Sans', sans-serif !default;
+$blog-font-family: 'Merriweather', serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -10,7 +11,7 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #9F9F9F !default;
+$text-color:       #dddddd !default;
 $background-color: #343434 !default;
 $primary-color:    #FFE457 !default;
 $secondary-color:  #252525 !default;

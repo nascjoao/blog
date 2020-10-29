@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "Welcome to my fresh new blog (and first post)!"
+image: https://ik.imagekit.io/joaonasc/joaonascdev/Blog/Articles/24-10-2020/Dr-Jekyll-and-Mr-Hyde-Fredric-March-min_I73u3gbzt.jpg
+image-description: "The Mysterious Case of Doctor Jekyll and Mister Hyde"
 date:   2020-10-24 02:03:00 -0300
 categories: jekyll
 ---
 
-I've been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on [Medium][Medium] and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read by month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won't judge its business plans. 
+I've been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on [Medium][Medium] and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won't judge its business plans. 
 
-Well, here's the options I had:
+**Well, here's the options I had:**
 
 1. Cry like a baby because Medium was really great back days.
 2. Go back to the days when I builded some blogs with traditional platforms such as Blogger, Wordpress or even... Tumblr.
@@ -23,12 +25,12 @@ Yes, my friends. Maybe for some of you it isn't something new but, for me, it ju
 [Jekyll][Jekyll] is the name of our great solution here. It works with [Ruby][Ruby] (but don't you worry if you never saw anything about it), so you have to install it on your machine before start to work with Jekyll.
 
 After this, you have to install the Jekyll and bundler gems with this command on your terminal:
-{% highlight bash %}
+{% highlight text %}
 gem install jekyll bundler
 {% endhighlight %}
 
 Then you can start your first project with:
-{% highlight bash %}
+{% highlight text %}
 jekyll new your-project
 {% endhighlight %}
 
