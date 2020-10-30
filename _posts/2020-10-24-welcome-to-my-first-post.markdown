@@ -7,6 +7,8 @@ date:   2020-10-24 02:03:00 -0300
 categories: jekyll
 ---
 
+##### 🇺🇸 English &nbsp; [🇧🇷 Portuguese](#-português)
+
 I've been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on [Medium][Medium] and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won't judge its business plans. 
 
 **Well, here's the options I had:**
@@ -41,6 +43,44 @@ Jekyll has a great documentation and a large community who supports and develops
 For free.
 
 Enjoy it! 😃
+
+---
+
+# 🇧🇷 Português
+
+Eu estava procurando um lugar bacana para publicar meus pensamentos e criar conteúdo. Na verdade, eu estava convencido de que escreveria meus artigos na minha conta pessoal no [Medium][Medium] e daria tudo certo. Foi aí que eu percebi que agora o Medium implementou uma forma de assinatura que limita o número de artigos que se pode ler por mês, no plano gratuito. Ok, isso vai contra aquilo que eu acredito ser a potencial trajetória para o Medium cursar mas, não vou julgar os seus planos de negócios.
+
+**Bem, aqui estão as opções que eu tive:**
+
+1. Chorar que nem criança, porque o Medium era realmente excelente antigamente.
+2. Voltar aos velhos tempos quando eu criava blogs com plataformas tradicionais, como o Blogger, Wordpress ou até... Tumblr.
+3. Desenvolver o meu próprio blog pessoal.
+
+A essa altura do campeonato já ficou bem claro qual foi a minha escolha. Então, eu fui atrás de aprender como eu poderia fazer isso e o quanto isso iria me custar. Aqui está a parte mais legal:
+
+# Eu encontrei uma solução que constrói um blog, completo, com apenas um comando. Me permite hospedar no Github Pages e é completamente gratuita.
+
+Sim, meus amigos. Talvez não seja novidade para alguns de vocês mas, para mim, foi um grande achado!
+
+[Jekyll][Jekyll] é o nome da nossa grande solução. Funciona com [Ruby][Ruby] (mas você não precisa se preocupar se nunca viu nada sobre), assim, você necessita de instalar na sua máquina antes de começar a trabalhar com o Jekyll.
+
+Depois disso, você precisa instalar o Jekyll e as suas bundler gems com esse comando no seu terminal:
+{% highlight text %}
+gem install jekyll bundler
+{% endhighlight %}
+
+Agora você já pode iniciar o seu primeiro projeto:
+{% highlight text %}
+jekyll new seu-projeto
+{% endhighlight %}
+
+E isso é tudo! Seu blog já está pronto (ou quase). Tudo o que você precisa fazer agora é seguir a documentação e configurar com as suas informações.
+
+Jekyll tem uma excelente documentação e uma grande comunidade disposta a ajudar e desenvolver os mais diversos temas. Eu recomendo muito que você busque conhecer um pouco mais sobre. É uma pequenina ferramenta, capaz de construir grandes projetos.
+
+De graça.
+
+Aproveita! 😃
 
 [Medium]: https://medium.com/@joaov
 [Jekyll]: https://jekyllrb.com

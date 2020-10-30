@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-10-29T21:14:52-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">João Nasc</title><entry><title type="html">Welcome to my fresh new blog (and first post)!</title><link href="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html" rel="alternate" type="text/html" title="Welcome to my fresh new blog (and first post)!" /><published>2020-10-24T02:03:00-03:00</published><updated>2020-10-24T02:03:00-03:00</updated><id>http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html">&lt;p&gt;I’ve been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on &lt;a href=&quot;https://medium.com/@joaov&quot;&gt;Medium&lt;/a&gt; and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won’t judge its business plans.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-10-29T22:41:55-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">João Nasc</title><entry><title type="html">Welcome to my fresh new blog (and first post)!</title><link href="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html" rel="alternate" type="text/html" title="Welcome to my fresh new blog (and first post)!" /><published>2020-10-24T02:03:00-03:00</published><updated>2020-10-24T02:03:00-03:00</updated><id>http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html">&lt;h5 id=&quot;-english---portuguese&quot;&gt;🇺🇸 English   &lt;a href=&quot;#-português&quot;&gt;🇧🇷 Portuguese&lt;/a&gt;&lt;/h5&gt;
+
+&lt;p&gt;I’ve been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on &lt;a href=&quot;https://medium.com/@joaov&quot;&gt;Medium&lt;/a&gt; and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won’t judge its business plans.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Well, here’s the options I had:&lt;/strong&gt;&lt;/p&gt;
 
@@ -32,4 +34,42 @@
 
 &lt;p&gt;For free.&lt;/p&gt;
 
-&lt;p&gt;Enjoy it! 😃&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">I’ve been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on Medium and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won’t judge its business plans.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ik.imagekit.io/joaonasc/joaonascdev/Blog/Articles/24-10-2020/Dr-Jekyll-and-Mr-Hyde-Fredric-March-min_I73u3gbzt.jpg" /><media:content medium="image" url="https://ik.imagekit.io/joaonasc/joaonascdev/Blog/Articles/24-10-2020/Dr-Jekyll-and-Mr-Hyde-Fredric-March-min_I73u3gbzt.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Enjoy it! 😃&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;-português&quot;&gt;🇧🇷 Português&lt;/h1&gt;
+
+&lt;p&gt;Eu estava procurando um lugar bacana para publicar meus pensamentos e criar conteúdo. Na verdade, eu estava convencido de que escreveria meus artigos na minha conta pessoal no &lt;a href=&quot;https://medium.com/@joaov&quot;&gt;Medium&lt;/a&gt; e daria tudo certo. Foi aí que eu percebi que agora o Medium implementou uma forma de assinatura que limita o número de artigos que se pode ler por mês, no plano gratuito. Ok, isso vai contra aquilo que eu acredito ser a potencial trajetória para o Medium cursar mas, não vou julgar os seus planos de negócios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bem, aqui estão as opções que eu tive:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Chorar que nem criança, porque o Medium era realmente excelente antigamente.&lt;/li&gt;
+  &lt;li&gt;Voltar aos velhos tempos quando eu criava blogs com plataformas tradicionais, como o Blogger, Wordpress ou até… Tumblr.&lt;/li&gt;
+  &lt;li&gt;Desenvolver o meu próprio blog pessoal.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A essa altura do campeonato já ficou bem claro qual foi a minha escolha. Então, eu fui atrás de aprender como eu poderia fazer isso e o quanto isso iria me custar. Aqui está a parte mais legal:&lt;/p&gt;
+
+&lt;h1 id=&quot;eu-encontrei-uma-solução-que-constrói-um-blog-completo-com-apenas-um-comando-me-permite-hospedar-no-github-pages-e-é-completamente-gratuita&quot;&gt;Eu encontrei uma solução que constrói um blog, completo, com apenas um comando. Me permite hospedar no Github Pages e é completamente gratuita.&lt;/h1&gt;
+
+&lt;p&gt;Sim, meus amigos. Talvez não seja novidade para alguns de vocês mas, para mim, foi um grande achado!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; é o nome da nossa grande solução. Funciona com &lt;a href=&quot;https://www.ruby-lang.org&quot;&gt;Ruby&lt;/a&gt; (mas você não precisa se preocupar se nunca viu nada sobre), assim, você necessita de instalar na sua máquina antes de começar a trabalhar com o Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Depois disso, você precisa instalar o Jekyll e as suas bundler gems com esse comando no seu terminal:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;gem install jekyll bundler&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Agora você já pode iniciar o seu primeiro projeto:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;jekyll new seu-projeto&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;E isso é tudo! Seu blog já está pronto (ou quase). Tudo o que você precisa fazer agora é seguir a documentação e configurar com as suas informações.&lt;/p&gt;
+
+&lt;p&gt;Jekyll tem uma excelente documentação e uma grande comunidade disposta a ajudar e desenvolver os mais diversos temas. Eu recomendo muito que você busque conhecer um pouco mais sobre. É uma pequenina ferramenta, capaz de construir grandes projetos.&lt;/p&gt;
+
+&lt;p&gt;De graça.&lt;/p&gt;
+
+&lt;p&gt;Aproveita! 😃&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">🇺🇸 English   🇧🇷 Portuguese</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ik.imagekit.io/joaonasc/joaonascdev/Blog/Articles/24-10-2020/Dr-Jekyll-and-Mr-Hyde-Fredric-March-min_I73u3gbzt.jpg" /><media:content medium="image" url="https://ik.imagekit.io/joaonasc/joaonascdev/Blog/Articles/24-10-2020/Dr-Jekyll-and-Mr-Hyde-Fredric-March-min_I73u3gbzt.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

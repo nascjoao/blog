@@ -1,6 +1,6 @@
 /**
- * Reset some basic elements
- */
+* Reset some basic elements
+*/
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -9,9 +9,13 @@ dl, dd, ol, ul, figure {
   -webkit-tap-highlight-color: transparent;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /**
- * Basic styling
- */
+* Basic styling
+*/
 body {
   font: 400 16px/1.5 "Open Sans", sans-serif;
   color: #dddddd;
@@ -30,6 +34,33 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+}
+
+#top-button {
+  background-color: #252525;
+  color: #dddddd;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid #343434;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+}
+
+@media screen and (max-width: 600px) {
+  #top-button {
+    left: 15px;
+  }
 }
 
 /**
@@ -216,6 +247,30 @@ table th {
 
 table td {
   border: 1px solid #e8e8e8;
+}
+
+hr {
+  border: none;
+}
+
+hr::after {
+  content: "...";
+  letter-spacing: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%;
+  font-size: 58px;
+  color: #676767;
+}
+
+@media screen and (max-width: 600px) {
+  hr::after {
+    letter-spacing: 10px;
+  }
 }
 
 /**

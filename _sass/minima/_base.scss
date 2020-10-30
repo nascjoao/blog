@@ -1,6 +1,6 @@
 /**
- * Reset some basic elements
- */
+* Reset some basic elements
+*/
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -10,24 +10,48 @@ dl, dd, ol, ul, figure {
 }
 
 
+html {
+  scroll-behavior: smooth;
+}
+
 /**
- * Basic styling
- */
+* Basic styling
+*/
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-       -o-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
   font-kerning: normal;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-
   
+  
+}
+
+#top-button {
+  background-color: $secondary-color;
+  color: $text-color;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid $background-color;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: fixed;
+  right: 15px;
+  @include media-query($on-palm) {
+    left: 15px;
+  }
+  bottom: 15px;
 }
 
 
@@ -241,5 +265,22 @@ table {
   }
   td {
     border: 1px solid $grey-color-light;
+  }
+}
+
+hr {
+  border: none;
+
+  &::after {
+    content: "...";
+    letter-spacing: 30px;
+    @include media-query($on-palm) {
+    letter-spacing: 10px;
+    }
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 58px;
+    color: lighten($background-color, 20);
   }
 }
