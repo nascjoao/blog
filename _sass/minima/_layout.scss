@@ -266,7 +266,7 @@
   line-height: 2;
   font-size: 19px;
   @include media-query($on-palm) {
-  font-size: initial;
+  font-size: 17px;
   }
   max-width: 720px;
   padding: 0 20px;

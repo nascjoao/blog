@@ -525,7 +525,7 @@ footer {
 
 @media screen and (max-width: 600px) {
   .post-content {
-    font-size: initial;
+    font-size: 17px;
   }
 }
 

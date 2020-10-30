@@ -116,7 +116,7 @@ footer { display: flex; justify-content: center; align-items: center; height: 90
 @media screen and (max-width: 800px) { .post-title { font-size: 28px; max-width: 400px; line-height: 1.2; } }
 
 .post-content { font-family: "Merriweather", serif; margin-bottom: 30px; line-height: 2; font-size: 19px; max-width: 720px; padding: 0 20px; margin: auto; }
-@media screen and (max-width: 600px) { .post-content { font-size: initial; } }
+@media screen and (max-width: 600px) { .post-content { font-size: 17px; } }
 .post-content a:hover { text-decoration: underline; }
 .post-content li::marker { font-weight: bold; color: #FFE457; }
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6, .post-content strong { margin: 35px 0; font-weight: bold; color: #FFE457; line-height: 1.7; }
