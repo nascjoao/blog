@@ -9,7 +9,7 @@ categories: jekyll
 
 ##### 🇺🇸 English &nbsp; [🇧🇷 Portuguese](#-português)
 
-I've been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on [Medium][Medium] and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won't judge its business plans. 
+I've been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on [Medium][Medium]{:target="_blank"} and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won't judge its business plans. 
 
 **Well, here's the options I had:**
 
@@ -24,7 +24,7 @@ At this point, it's clear what was my choice. So, I ran to search how I would ac
 
 Yes, my friends. Maybe for some of you it isn't something new but, for me, it just blew my mind!
 
-[Jekyll][Jekyll] is the name of our great solution here. It works with [Ruby][Ruby] (but don't you worry if you never saw anything about it), so you have to install it on your machine before start to work with Jekyll.
+[Jekyll][Jekyll]{:target="_blank"} is the name of our great solution here. It works with [Ruby][Ruby]{:target="_blank"} (but don't you worry if you never saw anything about it), so you have to install it on your machine before start to work with Jekyll.
 
 After this, you have to install the Jekyll and bundler gems with this command on your terminal:
 {% highlight text %}
@@ -48,7 +48,7 @@ Enjoy it! 😃
 
 # 🇧🇷 Português
 
-Eu estava procurando um lugar bacana para publicar meus pensamentos e criar conteúdo. Na verdade, eu estava convencido de que escreveria meus artigos na minha conta pessoal no [Medium][Medium] e daria tudo certo. Foi aí que eu percebi que agora o Medium implementou uma forma de assinatura que limita o número de artigos que se pode ler por mês, no plano gratuito. Ok, isso vai contra aquilo que eu acredito ser a potencial trajetória para o Medium cursar mas, não vou julgar os seus planos de negócios.
+Eu estava procurando um lugar bacana para publicar meus pensamentos e criar conteúdo. Na verdade, eu estava convencido de que escreveria meus artigos na minha conta pessoal no [Medium][Medium]{:target="_blank"} e daria tudo certo. Foi aí que eu percebi que agora o Medium implementou uma forma de assinatura que limita o número de artigos que se pode ler por mês, no plano gratuito. Ok, isso vai contra aquilo que eu acredito ser a potencial trajetória para o Medium cursar mas, não vou julgar os seus planos de negócios.
 
 **Bem, aqui estão as opções que eu tive:**
 
@@ -62,7 +62,7 @@ A essa altura do campeonato já ficou bem claro qual foi a minha escolha. Então
 
 Sim, meus amigos. Talvez não seja novidade para alguns de vocês mas, para mim, foi um grande achado!
 
-[Jekyll][Jekyll] é o nome da nossa grande solução. Funciona com [Ruby][Ruby] (mas você não precisa se preocupar se nunca viu nada sobre), assim, você necessita de instalar na sua máquina antes de começar a trabalhar com o Jekyll.
+[Jekyll][Jekyll]{:target="_blank"} é o nome da nossa grande solução. Funciona com [Ruby][Ruby]{:target="_blank"} (mas você não precisa se preocupar se nunca viu nada sobre), assim, você necessita de instalar na sua máquina antes de começar a trabalhar com o Jekyll.
 
 Depois disso, você precisa instalar o Jekyll e as suas bundler gems com esse comando no seu terminal:
 {% highlight text %}

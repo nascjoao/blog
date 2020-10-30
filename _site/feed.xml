@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-10-29T22:46:24-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">João Nasc</title><entry><title type="html">Welcome to my fresh new blog (and first post)!</title><link href="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html" rel="alternate" type="text/html" title="Welcome to my fresh new blog (and first post)!" /><published>2020-10-24T02:03:00-03:00</published><updated>2020-10-24T02:03:00-03:00</updated><id>http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html">&lt;h5 id=&quot;-english---portuguese&quot;&gt;🇺🇸 English   &lt;a href=&quot;#-português&quot;&gt;🇧🇷 Portuguese&lt;/a&gt;&lt;/h5&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-10-29T23:05:55-03:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">João Nasc</title><entry><title type="html">Welcome to my fresh new blog (and first post)!</title><link href="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html" rel="alternate" type="text/html" title="Welcome to my fresh new blog (and first post)!" /><published>2020-10-24T02:03:00-03:00</published><updated>2020-10-24T02:03:00-03:00</updated><id>http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post</id><content type="html" xml:base="http://localhost:4000/blog/jekyll/2020/10/24/welcome-to-my-first-post.html">&lt;h5 id=&quot;-english---portuguese&quot;&gt;🇺🇸 English   &lt;a href=&quot;#-português&quot;&gt;🇧🇷 Portuguese&lt;/a&gt;&lt;/h5&gt;
 
-&lt;p&gt;I’ve been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on &lt;a href=&quot;https://medium.com/@joaov&quot;&gt;Medium&lt;/a&gt; and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won’t judge its business plans.&lt;/p&gt;
+&lt;p&gt;I’ve been searching for a nice place to publish my ideas and create some content about something. In fact, I was convinced to write my articles on my personal account on &lt;a href=&quot;https://medium.com/@joaov&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt; and everything should be fine. It was when I realized that Medium now has paywalls and limits how many articles you can read per month with the free plan. Ok, it goes against what I believe to be the potential way to Medium go but, I won’t judge its business plans.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Well, here’s the options I had:&lt;/strong&gt;&lt;/p&gt;
 
@@ -18,7 +18,7 @@
 
 &lt;p&gt;Yes, my friends. Maybe for some of you it isn’t something new but, for me, it just blew my mind!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is the name of our great solution here. It works with &lt;a href=&quot;https://www.ruby-lang.org&quot;&gt;Ruby&lt;/a&gt; (but don’t you worry if you never saw anything about it), so you have to install it on your machine before start to work with Jekyll.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; is the name of our great solution here. It works with &lt;a href=&quot;https://www.ruby-lang.org&quot; target=&quot;_blank&quot;&gt;Ruby&lt;/a&gt; (but don’t you worry if you never saw anything about it), so you have to install it on your machine before start to work with Jekyll.&lt;/p&gt;
 
 &lt;p&gt;After this, you have to install the Jekyll and bundler gems with this command on your terminal:&lt;/p&gt;
 
@@ -40,7 +40,7 @@
 
 &lt;h1 id=&quot;-português&quot;&gt;🇧🇷 Português&lt;/h1&gt;
 
-&lt;p&gt;Eu estava procurando um lugar bacana para publicar meus pensamentos e criar conteúdo. Na verdade, eu estava convencido de que escreveria meus artigos na minha conta pessoal no &lt;a href=&quot;https://medium.com/@joaov&quot;&gt;Medium&lt;/a&gt; e daria tudo certo. Foi aí que eu percebi que agora o Medium implementou uma forma de assinatura que limita o número de artigos que se pode ler por mês, no plano gratuito. Ok, isso vai contra aquilo que eu acredito ser a potencial trajetória para o Medium cursar mas, não vou julgar os seus planos de negócios.&lt;/p&gt;
+&lt;p&gt;Eu estava procurando um lugar bacana para publicar meus pensamentos e criar conteúdo. Na verdade, eu estava convencido de que escreveria meus artigos na minha conta pessoal no &lt;a href=&quot;https://medium.com/@joaov&quot; target=&quot;_blank&quot;&gt;Medium&lt;/a&gt; e daria tudo certo. Foi aí que eu percebi que agora o Medium implementou uma forma de assinatura que limita o número de artigos que se pode ler por mês, no plano gratuito. Ok, isso vai contra aquilo que eu acredito ser a potencial trajetória para o Medium cursar mas, não vou julgar os seus planos de negócios.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Bem, aqui estão as opções que eu tive:&lt;/strong&gt;&lt;/p&gt;
 
@@ -56,7 +56,7 @@
 
 &lt;p&gt;Sim, meus amigos. Talvez não seja novidade para alguns de vocês mas, para mim, foi um grande achado!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; é o nome da nossa grande solução. Funciona com &lt;a href=&quot;https://www.ruby-lang.org&quot;&gt;Ruby&lt;/a&gt; (mas você não precisa se preocupar se nunca viu nada sobre), assim, você necessita de instalar na sua máquina antes de começar a trabalhar com o Jekyll.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; é o nome da nossa grande solução. Funciona com &lt;a href=&quot;https://www.ruby-lang.org&quot; target=&quot;_blank&quot;&gt;Ruby&lt;/a&gt; (mas você não precisa se preocupar se nunca viu nada sobre), assim, você necessita de instalar na sua máquina antes de começar a trabalhar com o Jekyll.&lt;/p&gt;
 
 &lt;p&gt;Depois disso, você precisa instalar o Jekyll e as suas bundler gems com esse comando no seu terminal:&lt;/p&gt;
 
